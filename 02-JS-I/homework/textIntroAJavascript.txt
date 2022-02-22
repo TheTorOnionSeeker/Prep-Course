@@ -1,0 +1,11 @@
+# Variables:
+Si entendemos a una memoria como algo físico, como una caja, una variable sería como una pequeña caja donde podemos guardar cosas.
+La explicación más exhaustiva sería que una variable es un espacio de memoria que nos permite guardar un valor o dato de algún 'tipo' específico.
+# Strings:
+Un string sería una unión de caracteres, como una cadena ('string'), en donde cada eslabón de la cadena sería un caracter.
+# Funciones (argumentos, `return`):
+Una función es un conjunto o grupo de instrucciones. Decimos qué pasos seguir cuando esa función es llamada. Por ejemplo sería como tener una receta para hacer pan. Si queremos hacer pan, acudimos a la receta (llamamos a la función), donde están las instrucciones. En el caso de la función, ejecuta por nosotros las instrucciones.
+# Declaraciones `if`:
+Un if es como si preguntáramos si algo es verdadero o falso, comparandolo con otra cosa. Si por ejemplo escribimos if(edad>20), aquí preguntamos si es verdadero que edad es mayor que 20.
+# Valores booleanos (`true`, `false`):
+Una declaración puede ser verdadera o falsa. En una historia por ejemplo, si algo es cierto, es true, si no es cierto, es false.
