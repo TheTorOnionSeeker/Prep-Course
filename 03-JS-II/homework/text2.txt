@@ -1,0 +1,8 @@
+# `for`:
+Es un conjunto de instrucciones que se repite una y otra vez, hasta que se cumple una condición que se le impone. 
+# `&&`:
+Equivalente a nuestro 'y', nos sirve para 'juntar' dos condiciones, o cuando se compara, para 'juntar' dos comparaciones.
+# `||`:
+Equivalente a nuestro 'o', nos sirve para solcitar que se cumpla o una u otra, entre dos o más condiciones, o cuando se compara, para establecer dos o más comparaciones, en donde sólo una de ellas podría cumplirse.
+# `!`:
+Equivalente a nuestro 'no es', nos sirve para 'negar' una condición, o cuando se compara, para 'negar' una comparación.
