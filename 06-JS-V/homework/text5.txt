@@ -1,0 +1,4 @@
+# `prototype`:
+Un prototipo es como el padre de un objeto. Le da al objeto las características que 'hereda'.
+# _Constructors_ (de Clases):
+Un constructor es una serie de instrucciones que nos permite 'crear' o construir un objeto con las propiedades definidas en el constructor y que se reciben por parámetro.
