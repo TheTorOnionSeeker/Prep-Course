@@ -1,0 +1,10 @@
+# Objetos:
+De manera similar a las variables, un objeto es una espacio de memoria donde pueden guardarse datos, a los cuales se los puede identificar con un 'nombre', que sería la clave. El contenido (dato) identificado con esa clave sería el 'valor' de la misma.
+# Propiedades:
+Las propiedades serían las características propias del objetos. Se puede acceder a ellas para ver esas características.
+# Métodos:
+Son las cosas que puede hacer un objeto.
+# Bucle `for…in`:
+Es una forma de repetir una serie de instrucciones una cierta cantidad de veces, mientras se cumpla una condición, al recorrer un arreglo del cual desconocemos su contenido.
+# Notación de puntos vs notación de corchetes:
+La notación de corchetes es una forma de acceder a los elementos de un arreglo tipo objeto, ej.: objeto[elemento]. La notación de puntos permite de igual manera acceder a estos elementos, pero de una manera más simple, ej.: objeto.elemento.
