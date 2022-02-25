@@ -1,0 +1,2 @@
+# Arrays:
+Los arrays o arreglos, de manera similar a las variables, son 'espacios' de memoria donde guardaremos un dato, o más de un dato de manera ordenada según un 'identificador', llamado índice.
