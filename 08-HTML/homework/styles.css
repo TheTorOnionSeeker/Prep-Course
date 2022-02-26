@@ -1,0 +1,23 @@
+html {
+    background: url(https://cdn.pixabay.com/photo/2014/05/27/23/32/matrix-356024_960_720.jpg);
+    display: flexbox;
+}
+div {
+    align-content: center;
+}
+h1 {
+    color: royalblue;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    background-color: cadetblue;
+    margin: 50px;
+    padding: 50px;
+    border: 1px;
+    border-color: solid black;
+}
+#spanId {
+    font-size: 18px;
+}
