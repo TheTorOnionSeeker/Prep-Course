@@ -4,16 +4,19 @@ html {
 }
 div {
     align-content: center;
+    background-color: aquamarine; 
 }
 h1 {
-    color: royalblue;
+    color: blue;
 }
 img {
     width: 400px;
 }
 #thirdDiv {
+    height: 600px;
+    width: 500px;
     background-color: cadetblue;
-    margin: 50px;
+    /* margin: 50px; */
     padding: 50px;
     border: 1px;
     border-color: solid black;
